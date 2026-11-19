@@ -55,10 +55,6 @@ access_log
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-
-###> phpstan/phpstan ###
-phpstan.neon
-###< phpstan/phpstan ###
 /data
 .idea/
 *.sql
